@@ -1,0 +1,3 @@
+# Este proyecto NO tiene dependencias externas.
+# Usa únicamente la biblioteca estándar de Python 3.11+ (incluye tkinter).
+# En Linux, si falta tkinter:  sudo apt install python3-tk
